@@ -1,0 +1,68 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/app1/node_modules
+/app1/.pnp
+/app1/.pnp.js
+
+# testing
+/app1/coverage
+
+# next.js
+/app1/.next/
+/app1/out/
+
+# production
+/app1/build
+
+# misc
+/app1/.DS_Store
+/app1/*.pem
+
+# debug
+/app1/npm-debug.log*
+/app1/yarn-debug.log*
+/app1/yarn-error.log*
+
+# local env files
+/app1/.env.local
+/app1/.env.development.local
+/app1/.env.test.local
+/app1/.env.production.local
+
+# vercel
+/app1/.vercel
+
+
+# dependencies
+/app2/node_modules
+/app2/.pnp
+/app2/.pnp.js
+
+# testing
+/app2/coverage
+
+# next.js
+/app2/.next/
+/app2/out/
+
+# production
+/app2/build
+
+# misc
+/app2/.DS_Store
+/app2/*.pem
+
+# debug
+/app2/npm-debug.log*
+/app2/yarn-debug.log*
+/app2/yarn-error.log*
+
+# local env files
+/app2/.env.local
+/app2/.env.development.local
+/app2/.env.test.local
+/app2/.env.production.local
+
+# vercel
+/app2/.vercel
